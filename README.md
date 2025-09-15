@@ -1,3 +1,9 @@
+```
+NAME: V. POOJAA SREE
+REG. NO.: 212223040147
+
+```
+
 # EX---4-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
 # Aim
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system, enabling the creation and management of virtual machines for running multiple operating systems on a single host machine.
@@ -94,18 +100,33 @@ Choose a strong password and re-enter it for confirmation.
 2. Log in using the root account and the password you set earlier.
 <img width="1299" height="1031" alt="image" src="https://github.com/user-attachments/assets/ffaa27b1-dbac-48ce-885c-f9c63fb67f28" />
 
+# METHODS:
+
 ## .sh method
 
-<img width="582" height="337" alt="image" src="https://github.com/user-attachments/assets/14596938-1c3a-433f-8377-9e18fbdd208e" />
-
-# expected output:
-
-<img width="332" height="223" alt="image" src="https://github.com/user-attachments/assets/4270527d-132b-4bb2-9655-abd98dff4486" />
+<img width="827" height="241" alt="2a" src="https://github.com/user-attachments/assets/36304433-f60f-41cc-918a-85019489566f" />
 
 
-## terminal method :
+# Expected output:
 
-<img width="596" height="614" alt="image" src="https://github.com/user-attachments/assets/330b061b-a75a-4bee-aa5b-d3e29c6940d8" />
+<img width="531" height="317" alt="2b" src="https://github.com/user-attachments/assets/78930184-e90d-4d14-9f45-ba49e5483550" />
+
+
+## Terminal method :
+
+<img width="723" height="530" alt="1" src="https://github.com/user-attachments/assets/c6002e8a-8e9a-431a-8bde-1791f5ae528c" />
+
+
+## .c method
+
+<img width="848" height="412" alt="3a" src="https://github.com/user-attachments/assets/540c6516-8d71-40e4-bbfb-d76aaa450972" />
+
+
+# Expected output:
+
+<img width="675" height="666" alt="3b" src="https://github.com/user-attachments/assets/500d2aa7-1d54-475b-83a5-6cb6acd996a7" />
+
+
 
 ## RESULT:
 Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
